@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @lamaalgh00
-- 👀 I’m interested in programming & AI
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on everything that helpful
-- 📫 How to reach me: on telegram @cvvlam
+- Hi, I’m @lamaalgh00
+- i'm on my first year in college of computer scince and engineering
+- I’m interested in solving programming problems & AI & learning everything that interest me
+- I’m currently learning Java 
+- I’m looking to collaborate on everything that helpful
+- How to reach me: on telegram @cvvlam
 
 <!---
 lamaalgh00/lamaalgh00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
