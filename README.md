@@ -1,5 +1,5 @@
 - Hi, I’m @lamaalgh00
-- i'm on my first year in college of computer scince and engineering
+- i'm on my first year in college of computer science and engineering
 - I’m interested in solving programming problems & AI & learning everything that interest me
 - I’m currently learning Java 
 - I’m looking to collaborate on everything that helpful
