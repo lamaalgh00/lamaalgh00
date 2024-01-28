@@ -1,7 +1,7 @@
 - Hi, I’m @lamaalgh00
-- i'm an artificial intelligence student
-- I’m interested in solving programming problems & AI & learning everything that interest me
-- I’m currently learning Java 
+- i'm an Artificial Intelligence student
+- I’m interested in in machine learning and computer vision.
+- I’m currently learning Python
 - I’m looking to collaborate on everything that helpful
 - How to reach me: on telegram @cvvlam
 
