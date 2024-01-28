@@ -1,5 +1,5 @@
 - Hi, I’m @lamaalgh00
-- i'm an Artificial Intelligence student
+- I'm an Artificial Intelligence student
 - I’m interested in in machine learning and computer vision.
 - I’m currently learning Python
 - I’m looking to collaborate on everything that helpful
