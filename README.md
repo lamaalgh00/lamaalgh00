@@ -1,7 +1,6 @@
 - Hi, I’m Lama Alghamdi
-- 👨‍💻 I'm an Artificial Intelligence student
-- 🔭 I’m currently working on my senior project in the field of medical AI.
-- ✨ I’m interested in deep learning, natural language processing and computer vision.
+- 👨‍💻 I'm an Artificial Intelligence graduate
+- ✨ I’m interested in machine learning, deep learning, natural language processing and generative AI.
 - 💬 How to reach me: on telegram @cvvlam
 
 <h3 align="left">Connect with me:</h3>
